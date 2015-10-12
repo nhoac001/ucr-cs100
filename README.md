@@ -141,4 +141,5 @@ All of your code will be run through an automated cheating detector.
 It is very good.
 It understands C++ better than you do and can find instances of cheating much more sophisticated than just copy and pasting.
 
-cool.
+ok.
+
